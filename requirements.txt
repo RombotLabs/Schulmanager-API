@@ -1,0 +1,4 @@
+flask
+playwright
+bs4
+dotenv
