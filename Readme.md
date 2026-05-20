@@ -17,7 +17,7 @@ A simple REST API that scrapes your timetable from [Schulmanager Online](https:/
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/schulmanager-api
+git clone https://github.com/RombotLabs/schulmanager-api
 cd schulmanager-api
 
 python3 -m venv venv
