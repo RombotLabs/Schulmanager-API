@@ -28,7 +28,7 @@ def table():
 
     subjects = Schulmanager(user, jwt_token)
     subjects.init_timetable()
-    return jsonify(subjects.get_timetable_json())
+    return jsonify(subjects.get_timetable())
 
 if __name__ == "__main__":
     app.run(debug=True)
